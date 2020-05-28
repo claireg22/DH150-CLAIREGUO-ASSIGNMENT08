@@ -1,4 +1,4 @@
-# DH150-CLAIREGUO
+
 # Amazon Redesign
 ## Claire Guo
 
