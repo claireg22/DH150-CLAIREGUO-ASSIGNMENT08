@@ -17,7 +17,7 @@ Through my project, I want to create a comfortable and effortless online shoppin
 I conducted a heuristic evaluation on the current Amazon website in order to clearly identify frustrating UX faults. While Amazon did not seem to have many severe usability issues, upon inspection, I found issues in Amazon's lack of help, consistency, and minimalist design, which could ultimately prevent an enjoyable and accessible shopping experience.
 I also conducted a heuristic evaluation on Coursicle, a class enrollment website, which allowed me to get a sense of how other, more primitive and simple, sites presented product information and filtered through a wide-range of options.
 
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT)
+[Read more >>](https://github.com/claireg22/DH150-CLAIREGUO)
 
 ### Competitor analysis: Usability Testing
 User-tesing is needed for successful user-centered design because it tests the usability of a product in order to make sure it is designed so that a real world user can accurately complete tasks or goals, enjoy using the product, and be willing to use it again. I conducted a pilot user test on the current Amazon website in order to observe users interact with Amazon in real-world scenerios such as adding items into the cart, finding help, and using Amazon's filtering system. After completing the usability test, I found that user's previous experience with the website greatly influenced how efficiently the user completed each task.
