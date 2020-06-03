@@ -85,11 +85,11 @@ Through both the impression test and cognitive walkthrough, where I was able to 
 
 Furthermore, I found that users were able to quickly navigate through tests through the usability tests and the new design elements were integrated well into the site visually. However, I could have been more bold with my design changes. 
 
-Usability testing videos:
-
 [Usability test video #1](https://youtu.be/-ixLABqAEtI)
 
 [Usability test video #2](https://youtu.be/F3bf5_iTH-c)
+
+[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 ### Pitch video 
 n/a
