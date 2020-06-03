@@ -10,15 +10,7 @@ How might I design an accessible shopping experience that all users can use quic
 
 Amazon serves as a one-stop shop. Amazon's wide-range of products and services attract a lot of people to their site, making it a very well-known and widely-used online shopping platform. Keeping this in mind, it is important that Amazon provides an effortless and delightful user experience for all of its users, including first-time users and those with less technological experience, so that all people can have access to Amazon's efficient method of purchasing necessary items.
 Amazon takes advantage of its benefits of being an online platform, such that it contains a wide variety of products and services from different brands and departments. However, the abundance of information and product options can easily be overwhelming for users. In order to make the shopping experience more enjoyable, Amazon should attempt to maintain the personalized experience of shopping in physical stores. 
-Through my project, I want to create a comfortable and effortless online shopping experience that accomodates all users and their shopping needs/wants. My designs aim to make Amazon more accessible, easy to use, and enjoyable, so that it will not be burdensome for users to purchase the items they need. 
-
-In order to combine the efficiency of online shopping with the delight and personalization of in-store shopping, my design will focus on improving Amazon's 
-
-One step to creating a more personalized online shopping experience is by connecting with users quickly and directly. In order t 
-
-
-promote the efficiency and benefits of online filtering, but also maintaining the joyful experience of online shopping
-benefits - lots of options, but maintaining experience 
+Through my project, I want to create a comfortable and effortless online shopping experience that accomodates all users and their shopping needs/wants. My designs aim to make Amazon more accessible, easy to use, and enjoyable, so that it will not be burdensome for users to purchase the items they need.  
 
 
 ### Competitor analysis: Heuristic Evaluation
