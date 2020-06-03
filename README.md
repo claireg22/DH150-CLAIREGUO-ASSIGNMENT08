@@ -6,7 +6,7 @@
 More and more people are using online ecommerce retailers to obtain products they need or want. Especially with stay-at-home orders in place due to COVID-19, more people are turning to online shopping methods not only because they are being encouraged to avoid in-store shopping as much as possible, but also in finding products that they can not find in stores. This past year, Amazon alone accounted for 40% of online retail and 43% of e-commerce gains in 2019 according to Internet Retailer. Despite being one of the most powerful brands and largest ecommerce retailers, Amazon's shopping experience can be difficult and overwhelming for users. With this project, I want to increase Amazon's accessibility by removing frustration and errors from the shopping process. Through redesigning Amazon's user experience, I hope to support the community by making it easier for all people to easily obtain products and resources they need, especially when it is difficult for them to leave their homes.
 
 ### Design statement: 
-**How might I design an accessible shopping experience that all users can use quickly, efficienty, and without frustration?**
+**How might I design an accessible shopping experience that all users can use quickly, efficiently, and without frustration?**
 
 Amazon serves as a one-stop shop. Amazon's wide-range of products and services attract a lot of people to their site, making it a very well-known and widely-used online shopping platform. Keeping this in mind, it is important that Amazon provides an effortless and delightful user experience for all of its users, including first-time users and those with less technological experience, so that all people can have access to Amazon's efficient method of purchasing necessary items.
 Amazon takes advantage of its benefits of being an online platform, such that it contains a wide variety of products and services from different brands and departments. However, the abundance of information and product options can easily be overwhelming for users. In order to make the shopping experience more enjoyable, Amazon should attempt to maintain the personalized experience of shopping in physical stores. 
@@ -91,8 +91,10 @@ Furthermore, I found that users were able to quickly navigate through tests thro
 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
-### Pitch video 
-n/a
+### Pitch 
+
+[Pitch video](https://www.youtube.com/watch?v=G0HGXruYXVw&feature=youtu.be)
+
 ### Conclusion
 In the beginning of this quarter, I challenged myself to analyze and improve the usability of Amazon, a very well-known and highly-regarded ecommerce retailer. Moreover, in a time where people are avoiding in-store shopping and looking to online sites to purchase necessary items, I realized that it was necessary for Amazon to make their site more accessible and easy to use. I decided to re-design Amazon's user experience as a service to my community, in order to allow all users, no matter their age or background, to be able to use the site without being overwhelmed.
 Through this project, I learned the design process, starting out with understanding important user experience design methods and analyzing existing sites with these methods in mind. I learned how to serve as a non-biased moderator and how to analzye user results to implement them into my new designs. Most importantly, I learned that improving the user experience for a website starts with the user and aims at creating an efficient and effortless user flow. Instead of focusing on how cool the user interface designed looked, I learned to prioritize the functionality of the website while incorporating design elements in efficient ways to create a usable and minimalistic design.
