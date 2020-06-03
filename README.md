@@ -6,7 +6,7 @@
 More and more people are using online ecommerce retailers to obtain products they need or want. Especially with stay-at-home orders in place due to COVID-19, more people are turning to online shopping methods not only because they are being encouraged to avoid in-store shopping as much as possible, but also in finding products that they can not find in stores. This past year, Amazon alone accounted for 40% of online retail and 43% of e-commerce gains in 2019 according to Internet Retailer. Despite being one of the most powerful brands and largest ecommerce retailers, Amazon's shopping experience can be difficult and overwhelming for users. With this project, I want to increase Amazon's accessibility by removing frustration and errors from the shopping process. Through redesigning Amazon's user experience, I hope to support the community by making it easier for all people to easily obtain products and resources they need, especially when it is difficult for them to leave their homes.
 
 ### Design statement: 
-How might I design an accessible shopping experience that all users can use quickly, efficienty, and without frustration?
+**How might I design an accessible shopping experience that all users can use quickly, efficienty, and without frustration?**
 
 Amazon serves as a one-stop shop. Amazon's wide-range of products and services attract a lot of people to their site, making it a very well-known and widely-used online shopping platform. Keeping this in mind, it is important that Amazon provides an effortless and delightful user experience for all of its users, including first-time users and those with less technological experience, so that all people can have access to Amazon's efficient method of purchasing necessary items.
 Amazon takes advantage of its benefits of being an online platform, such that it contains a wide variety of products and services from different brands and departments. However, the abundance of information and product options can easily be overwhelming for users. In order to make the shopping experience more enjoyable, Amazon should attempt to maintain the personalized experience of shopping in physical stores. 
@@ -55,7 +55,7 @@ In my new design of Amazon's user experience, I added three features to make the
 I created low-fidelity prototypes to check and test the functionality of these three new design elements.
 Creating hand-drawn screens and design flows allowed me to translate my high-level design concepts into physical and tangible entities that other people could interact with in order to identify functionality flaws. My low-fidelity prototype was used to test how the features I proposed flowed within a user's online shopping experience, and focuses on its practicality rather than visual appearance.
 
-![userflow](userflow.png)
+![userflow](flowuser.jpg)
 
 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
@@ -63,12 +63,20 @@ Creating hand-drawn screens and design flows allowed me to translate my high-lev
 ### High-fidelity prototype 
 I used AdobeXD to create an interactive high-fidelity prototype of my new Amazon design to study the functionality and usability of my new design features. The high-fidelity prototype includes more visual design information, such as graphic elements, colors, UI components, and familiar Amazon features. High-fidelity prototypes are interactive, validate the user interaction flow, and help find possible shortcomings to designs that need to be improved.
 
+Link to the [Interactive Prototype for the first two design elements](https://xd.adobe.com/view/caf758a8-381b-4968-6228-3a4e34c17f16-bcc6/)
+
+Link to the [Interactive Prototype for the third design element](https://xd.adobe.com/view/6699da20-dd69-4436-6d18-15133e8c265e-10a8/)
+
+![firsttwotasks](proto1.png)
+![thirdtask](proto2.png)
+
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 ### Evaluation and revision history 
 #### Impression test and cognitive walkthroughs
 I conducted an impression test and cognitive walkthrough with three classmates and two additional usability tests.
 Through both the impression test and cognitive walkthrough, where I was able to capture the users' first impression of the newly designed website and their perspectives while navigating through tasks, I received positive responses regarding the new minimalistic design and received input in how to make design elements on the screens more consistent. 
+
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 #### Usability tests
@@ -76,10 +84,10 @@ Through both the impression test and cognitive walkthrough, where I was able to 
 Furthermore, I found that users were able to quickly navigate through tests through the usability tests and the new design elements were integrated well into the site visually. However, I could have been more bold with my design changes. 
 
 Usability testing videos:
+
 UT #1: https://youtu.be/-ixLABqAEtI 
+
 UT #2: https://youtu.be/F3bf5_iTH-c
-
-
 
 ### Pitch video 
 n/a
