@@ -1,5 +1,5 @@
 
-# Amazon Redesign
+# Amazon User Experience Redesign
 ## Claire Guo
 
 ### Introduction
