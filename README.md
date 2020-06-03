@@ -33,6 +33,8 @@ I conducted user research for Amazon through participatory observation and found
 UX storytelling puts a human face on dry data and research and ensures that the improvements made in the product are user-centered. In order to understand why our product is used, how it can be used to resolve conflicts in our user's lives, and how users may feel when they use the product, we can create personas, scenarios, and empathy maps. UX storytelling puts our product into the hands of our potential users so we can understand their motivations, needs, and goals.
 From my contextual inquiry findings and target demographics, I created three different personas and walked through their emotional journies as they navigated through the tasks presented in each of their scenerios.
 
+![chelseapersona](chelseapersona.png)
+
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT05)
 
 ### Wireframe and graphic design element variation 
@@ -53,6 +55,7 @@ In my new design of Amazon's user experience, I added three features to make the
 I created low-fidelity prototypes to check and test the functionality of these three new design elements.
 Creating hand-drawn screens and design flows allowed me to translate my high-level design concepts into physical and tangible entities that other people could interact with in order to identify functionality flaws. My low-fidelity prototype was used to test how the features I proposed flowed within a user's online shopping experience, and focuses on its practicality rather than visual appearance.
 
+![userflow](userflow.png)
 
 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
@@ -67,9 +70,6 @@ I used AdobeXD to create an interactive high-fidelity prototype of my new Amazon
 I conducted an impression test and cognitive walkthrough with three classmates and two additional usability tests.
 Through both the impression test and cognitive walkthrough, where I was able to capture the users' first impression of the newly designed website and their perspectives while navigating through tasks, I received positive responses regarding the new minimalistic design and received input in how to make design elements on the screens more consistent. 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
-
-#### Accessibility audit
-
 
 #### Usability tests
 
