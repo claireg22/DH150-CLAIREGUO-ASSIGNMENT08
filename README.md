@@ -44,14 +44,16 @@ From my contextual inquiry findings and target demographics, I created three dif
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT05)
 
 ### Wireframe and graphic design element variation 
+![graphicdesign](graphicdesign.png)
+
 In my new design of Amazon's user experience, I added three features to make the site more accessible and enjoyable to use:
 
 1. Categorical organization of search results
 2. Easy access to a help page with contact information to Amazon
 3. Concise filter settings
 
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+[Read more about wireframes >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
+[Read more about graphic design elements>>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 ### Low-fidelity prototype 
 I created low-fidelity prototypes to check and test the functionality of three of my new design elements.
@@ -60,15 +62,31 @@ Creating hand-drawn screens and design flows allowed me to translate my high-lev
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
 
 ### High-fidelity prototype 
-The purpose of a high-fidelity prototype is to make interactive designs and to study the functionality and usability of new design features. The high-fidelity prototype below is based on my low-fidelity prototpes, but now include more visual design information, such as graphic elements, colors, UI components, and familiar Amazon features. High-fidelity prototypes are interactive, validate the user interaction flow, and help find possible shortcomings to designs that need to be improved.
+I used AdobeXD to create an interactive high-fidelity prototype of my new Amazon design to study the functionality and usability of my new design features. The high-fidelity prototype includes more visual design information, such as graphic elements, colors, UI components, and familiar Amazon features. High-fidelity prototypes are interactive, validate the user interaction flow, and help find possible shortcomings to designs that need to be improved.
 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 ### Evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+#### Impression test and cognitive walkthroughs
+I conducted an impression test and cognitive walkthrough with three classmates and two additional usability tests.
+Through both the impression test and cognitive walkthrough, where I was able to capture the users' first impression of the newly designed website and their perspectives while navigating through tasks, I received positive responses regarding the new minimalistic design and received input in how to make design elements on the screens more consistent. 
+[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+
+#### Accessibility audit
+
+#### Usability tests
+
+Furthermore, I found that users were able to quickly navigate through tests through the usability tests and the new design elements were integrated well into the site visually. However, I could have been more bold with my design changes. 
+
+Usability testing videos:
+UT #1: https://youtu.be/-ixLABqAEtI 
+UT #2: https://youtu.be/F3bf5_iTH-c
+
+
 
 ### Pitch video 
 n/a
 ### Conclusion
-n/a
+In the beginning of this quarter, I challenged myself to analyze and improve the usability of Amazon, a very well-known and highly-regarded ecommerce retailer. Moreover, in a time where people are avoiding in-store shopping and looking to online sites to purchase necessary items, I realized that it was necessary for Amazon to make their site more accessible and easy to use. I decided to re-design Amazon's user experience as a service to my community, in order to allow all users, no matter their age or background, to be able to use the site without being overwhelmed.
+Through this project, I learned the design process, starting out with understanding important user experience design methods and analyzing existing sites with these methods in mind. I learned how to serve as a non-biased moderator and how to analzye user results to implement them into my new designs. Most importantly, I learned that improving the user experience for a website starts with the user and aims at creating an efficient and effortless user flow. Instead of focusing on how cool the user interface designed looked, I learned to prioritize the functionality of the website while incorporating design elements in efficient ways to create a usable and minimalistic design.
 
