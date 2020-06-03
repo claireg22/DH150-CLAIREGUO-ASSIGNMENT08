@@ -44,7 +44,7 @@ I built off of Amazon's existing color palette to choose colors for the backgrou
 
 [Read more about wireframes >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
 
-[Read more about graphic design elements>>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+[Read more about graphic design elements>>](https://github.com/claireg22/ASSIGNMENT07)
 
 ### Low-fidelity prototype 
 In my new design of Amazon's user experience, I added three features to make the site more accessible and enjoyable to use:
@@ -72,14 +72,14 @@ Link to the [Interactive Prototype for the third design element](https://xd.adob
 ![firsttwotasks](proto1.png)
 ![thirdtask](proto2.png)
 
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+[Read more >>](https://github.com/claireg22/ASSIGNMENT07)
 
 ### Evaluation and revision history 
 #### Impression test and cognitive walkthroughs
 I conducted an impression test and cognitive walkthrough with three classmates and two additional usability tests.
 Through both the impression test and cognitive walkthrough, where I was able to capture the users' first impression of the newly designed website and their perspectives while navigating through tasks, I received positive responses regarding the new minimalistic design and received input in how to make design elements on the screens more consistent. 
 
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+[Read more >>](https://github.com/claireg22/ASSIGNMENT07)
 
 #### Usability tests
 
@@ -89,7 +89,7 @@ Furthermore, I found that users were able to quickly navigate through tests thro
 
 [Usability test video #2](https://youtu.be/F3bf5_iTH-c)
 
-[Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+[Read more >>](https://github.com/claireg22/ASSIGNMENT07)
 
 ### Pitch 
 
