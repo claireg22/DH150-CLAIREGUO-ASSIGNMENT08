@@ -43,6 +43,7 @@ From my contextual inquiry findings and target demographics, I created three dif
 I built off of Amazon's existing color palette to choose colors for the background and buttons. To preserve consistency, I used the orange colors on buttons and other usable features to show that they were clickable and interactive, and I found a similar sans-serif font similar to Amazon's "Ember" font to create my own buttons and descriptions. I used screenshots from Amazon, but I added, removed, and moved features around to create a de-cluttered and clean look for the new site. 
 
 [Read more about wireframes >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
+
 [Read more about graphic design elements>>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 ### Low-fidelity prototype 
@@ -86,9 +87,9 @@ Furthermore, I found that users were able to quickly navigate through tests thro
 
 Usability testing videos:
 
-UT #1: https://youtu.be/-ixLABqAEtI 
+[Usability test video #1](https://youtu.be/-ixLABqAEtI)
 
-UT #2: https://youtu.be/F3bf5_iTH-c
+[Usability test video #2](https://youtu.be/F3bf5_iTH-c)
 
 ### Pitch video 
 n/a
