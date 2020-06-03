@@ -36,20 +36,24 @@ From my contextual inquiry findings and target demographics, I created three dif
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT05)
 
 ### Wireframe and graphic design element variation 
-![graphicdesign](graphicdesign.png)
+![graphicdesign](graphicdesigns.png)
 
+I built off of Amazon's existing color palette to choose colors for the background and buttons. To preserve consistency, I used the orange colors on buttons and other usable features to show that they were clickable and interactive, and I found a similar sans-serif font similar to Amazon's "Ember" font to create my own buttons and descriptions. I used screenshots from Amazon, but I added, removed, and moved features around to create a de-cluttered and clean look for the new site. 
+
+[Read more about wireframes >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
+[Read more about graphic design elements>>](https://github.com/claireg22/DH150-ASSIGNMENT07)
+
+### Low-fidelity prototype 
 In my new design of Amazon's user experience, I added three features to make the site more accessible and enjoyable to use:
 
 1. Categorical organization of search results
 2. Easy access to a help page with contact information to Amazon
 3. Concise filter settings
 
-[Read more about wireframes >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
-[Read more about graphic design elements>>](https://github.com/claireg22/DH150-ASSIGNMENT07)
-
-### Low-fidelity prototype 
-I created low-fidelity prototypes to check and test the functionality of three of my new design elements.
+I created low-fidelity prototypes to check and test the functionality of these three new design elements.
 Creating hand-drawn screens and design flows allowed me to translate my high-level design concepts into physical and tangible entities that other people could interact with in order to identify functionality flaws. My low-fidelity prototype was used to test how the features I proposed flowed within a user's online shopping experience, and focuses on its practicality rather than visual appearance.
+
+
 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT06)
 
@@ -65,6 +69,7 @@ Through both the impression test and cognitive walkthrough, where I was able to 
 [Read more >>](https://github.com/claireg22/DH150-ASSIGNMENT07)
 
 #### Accessibility audit
+
 
 #### Usability tests
 
