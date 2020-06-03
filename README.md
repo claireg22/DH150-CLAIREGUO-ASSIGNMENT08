@@ -67,6 +67,7 @@ Link to the [Interactive Prototype for the first two design elements](https://xd
 
 Link to the [Interactive Prototype for the third design element](https://xd.adobe.com/view/6699da20-dd69-4436-6d18-15133e8c265e-10a8/)
 
+![wireflows](wireflows.png)
 ![firsttwotasks](proto1.png)
 ![thirdtask](proto2.png)
 
